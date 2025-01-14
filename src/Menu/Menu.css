@@ -1,0 +1,42 @@
+.Barra_Opciones {
+    background-image: url(https://terraria.org/static/media/middle.12ac987e.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.Barra_Opciones {
+    display: grid;
+    grid-template-columns: 2fr repeat(4, auto);
+    padding: 5px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.CajaLogo {
+    align-content: center;
+    height: auto;
+    width: 30vh;
+    margin: 5px;
+}
+
+.Caja3, .Caja4, .Default {
+    text-align: center;
+    align-content: center;
+    height: auto;
+    width: 20vh;
+    margin: 5px;
+    padding: 10px;
+}
+
+.Iniciar_Sesion, .Galeria, .Default {
+    color: white;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Logo {
+    padding-left: 3vh;
+    padding-right: 5vh;
+    width: 25vh;
+    height: 8vh;
+}

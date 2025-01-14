@@ -1,0 +1,35 @@
+.CuerpoFooter > section {
+    background-color: rgb(21, 204, 255);
+} .Caja2_Footer {
+    display: grid;
+    grid-template-columns: auto auto 1fr;
+    column-gap: 20vh;
+    margin: 0;
+} .Caja2_Footer > div {
+    align-content: center;
+} .Caja2_Texto1_Footer > h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 20px;
+} .LogoEmpresa {
+    width: 40vh;
+    margin-left: 20px;
+} .Caja2_Texto2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+} .Caja2_Texto2_Footer {
+    display: grid;
+    grid-template-rows: auto auto auto;
+} .Caja2_Texto3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+} .Caja2_Subtexto1 {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}

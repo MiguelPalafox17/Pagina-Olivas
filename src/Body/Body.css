@@ -1,0 +1,151 @@
+.Cuerpo {
+  display: grid;
+  grid-template-rows: auto auto auto;
+  background-image: url('../Pagina principal/Imagenes/Fondo_Seccion1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  justify-content: center;
+} .Seccion1, .Seccion2 {
+  justify-items: center;
+} .Seccion1{
+  margin-top: 10px;
+} .Seccion2 {
+  margin-top: 20px;
+} 
+.SubCuerpo {
+  display: grid;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.Imagen1_Body {
+  max-width: 100%;
+  height: auto;
+  display: grid;
+} .Caja1 {
+  background-image: url(https://terraria.org/static/media/middle.12ac987e.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+} .Caja1 {
+  justify-items: center;
+} .Caja_Imagen1_Body {
+height: 70vh;
+} .Caja2 {
+  background-image: url(https://terraria.org/static/media/middle.12ac987e.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  justify-items: center;
+} .Caja_Imagen2_Body > img {
+  width: 100%;
+  display: grid;
+} .Titulo1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #d87c35;
+    text-shadow: 1px -2px 0 #000000;
+  } .Subtitulo1 {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(123, 210, 104);
+  } .Texto1 {
+  width: 74.5%;
+  padding: 15px;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 25px;
+  font-weight: bold;
+  text-shadow: 2px 1px 0 #000000;
+  margin-bottom: 30px;
+}
+
+.Boton_Version {
+  margin: 20px;
+  height: 40px;
+  width: 160px;
+  color: white;
+  background-color: rgb(67, 203, 249);
+  border-radius: 5px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.Caja3_Seccion1 {
+  display: grid;
+  justify-items: center;
+  margin: 10%;
+} .Caja3_Seccion1 > div {
+  align-content: center;
+} 
+
+.Texto2 > p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  text-align: justify;
+}.Texto2 > h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Imagen8_Body {
+  width: 100vh;
+}
+
+.Caja3_Body {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: center;
+  gap: 30px;
+} .Caja3_Body > div {
+  display: grid;
+  grid-template-rows: auto auto;
+} .Caja3_Body > div > img {
+  width: 90vh;
+} .Caja3_Body > div > h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  max-width: 90vh;
+  text-align: center;
+} .Caja3_Imagen1 {
+  width: 300px;
+  height: 300px;
+}
+
+.Seccion3 {
+  background-image: url('../assets/Imagenes/Imagen9_Body.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.Caja1_Saccion3 {
+  display: grid;
+  grid-template-rows: auto auto;
+  text-align: center;
+  justify-content: center;
+}
+
+.Titulo2 {
+  
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  color: #caa74a;
+} .Titulo2 > img {
+  width: 50vw;
+}
+.Texto3 {
+  font-family: 'Montserrat', sans-serif;
+  width: 52vw;
+}
+
