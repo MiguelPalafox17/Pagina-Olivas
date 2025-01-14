@@ -14,7 +14,7 @@ export function Principal() {
                         <div className='Caja1'>
                             <p className='Texto1'>
                                 ¡Saludos Terrarians! <br />
-                                <br />como hemos mencionado en los últimos meses, el equipo ha estado trabajando arduamente en una actualización para optimizar aún más Terraria para jugar en Steam Deck, 
+                                <br />Como hemos mencionado en los últimos meses, el equipo ha estado trabajando arduamente en una actualización para optimizar aún más Terraria para jugar en Steam Deck, 
                                 incluido el rendimiento y los controles. Con Steam Deck, que se está enviando oficialmente a los jugadores a partir de hoy, 
                                 ¡nos complace poder enviar esta actualización a todos justo a tiempo! Para los terrarios que no están jugando en Steam Deck en este momento, no se preocupen,
                                 ya que también tenemos algunas mejoras de calidad de vida, equilibrio y correcciones de errores para ustedes. Sin más preámbulos, 
